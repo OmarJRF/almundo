@@ -1,0 +1,6 @@
+*** Test de Call Center de almundo.com ***
+- Este test esta realizado para representar demo de Call Center
+- El mismo esta realizado con Spring Boot
+- La Base de Datos es mySql
+- Empaquetado con Maven
+- La metodologia implementada es MVC
